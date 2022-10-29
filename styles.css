@@ -15,7 +15,10 @@ footer {
   color: #DBEDF3;
   font-family: sans-serif;
 }
-
+.by{
+  font-size: 2rem;
+  color: white;
+}
 .w {
 background-image: url(./images/tom1.png);
 }
